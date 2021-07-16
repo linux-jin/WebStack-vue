@@ -355,8 +355,13 @@
                         "logo": "assets/images/logos/ADOBEXDCC.png",
                         "title": "CF-XJJ",
                         "desc": "CLOUDFLARE搭建的XJJ跳舞"
+                    },
+                    {
+                        "url": "https://embedy.cc/video/",
+                        "logo": "assets/images/logos/ctrip.png",
+                        "title": "随看",
+                        "desc": "末尾带上番号即可"
                     }
-                    
                 ]
             },
             {
