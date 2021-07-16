@@ -4,7 +4,7 @@
       <!-- 版权信息 -->
       <div class="footer-text">
         &copy; 2017-2019
-        <a href="#"><strong>WebStack</strong></a> 
+        <a href="https://cf-proxy.trojan.workers.dev/https/pornhub.com/" target="_blank"><strong>NSFW</strong></a> 
         design by <a href="https://github.com/beer-on-ice" target="_blank"><strong>mistyhill</strong></a>
       </div>
       
