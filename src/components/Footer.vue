@@ -5,7 +5,7 @@
       <div class="footer-text">
         &copy; 2017-2019
         <a href="#"><strong>WebStack</strong></a> 
-        design by <a href="http://viggoz.com" target="_blank"><strong>Viggo</strong></a>
+        design by <a href="https://github.com/beer-on-ice" target="_blank"><strong>mistyhill</strong></a>
       </div>
       
       <div class="go-up">
