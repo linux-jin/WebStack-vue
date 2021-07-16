@@ -391,7 +391,14 @@
                         "logo": "assets/images/logos/ADOBEXDCC.png",
                         "title": "CF-XXX",
                         "desc": "CLOUDFLARE搭建的视频播放"
+                    },
+                    {
+                        "url": "https://nv.pages.dev/",
+                        "logo": "assets/images/logos/ADOBEXDCC.png",
+                        "title": "CF-XJJ",
+                        "desc": "CLOUDFLARE搭建的XJJ跳舞"
                     }
+                    
                 ]
             },
             {
