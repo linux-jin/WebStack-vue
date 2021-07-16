@@ -163,6 +163,12 @@
                 "en_name": "CLOUDFLARE-PAGE",
                 "web": [
                     {
+                        "url": "https://sosos.pages.dev/",
+                        "logo": "assets/images/logos/sizzy.png",
+                        "title": "CF-HOT",
+                        "desc": "搜索、热榜功能"
+                    },
+                    {
                         "url": "https://ao.pages.dev/",
                         "logo": "assets/images/logos/iconsfeed.png",
                         "title": "CF-MUSIC",
