@@ -9,7 +9,7 @@
           </router-link>
         </div>
         <div class="navbar-mobile-clear"></div>
-        <a href="https://github.com/Anjaxs/WebStack-vue" target="_blank">
+        <a href="https://github.com/beer-on-ice" target="_blank">
            <img style="position: absolute; top: 0; right: 0; border: 0;"
                src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
                alt="Fork me on GitHub">
@@ -40,11 +40,11 @@
                 <div class="row">
                   <div class="col-sm-4">
                     <div class="xe-widget xe-conversations box2 label-info"
-                         onclick="window.open('http://www.viggoz.com/', '_blank')"
+                         onclick="window.open('https://www.666986.xyz/', '_blank')"
                          data-toggle="tooltip"
                          data-placement="bottom"
                          title=""
-                         data-original-title="http://www.viggoz.com/">
+                         data-original-title="https://www.666986.xyz/">
                       <div class="xe-comment-entry">
                         <a class="xe-user-img">
                           <img :src="authorImg" class="img-circle" width="40">
@@ -64,7 +64,7 @@
                         <br />
                         <blockquote>
                           <p>
-                            这是一个公益项目，而且是<a href="https://github.com/linux-jin/WebStack-vue"> 开源 </a>
+                            这是一个公益项目，而且是<a href="https://github.com/beer-on-ice/nav"> 开源 </a>
                             <iframe src="https://ghbtns.com/github-btn.html?user=WebStackPage&repo=WebStackPage.github.io&type=star&count=true"
                                     frameborder="0" scrolling="0" width="100px" height="20px"></iframe> 的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过个人网站
                             <a href="https://github.com/beer-on-ice">
