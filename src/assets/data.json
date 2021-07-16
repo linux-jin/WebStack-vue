@@ -334,6 +334,12 @@
                 "desc": "老电视机"
             },
             {
+                "url": "https://gbajs.pages.dev/",
+                "logo": "assets/images/logos/CollectUI.png",
+                "title": "CF-GBA",
+                "desc": "经典GBA游戏"
+            },
+            {
                 "url": "https://oldfc.pages.dev/",
                 "logo": "assets/images/logos/CollectUI.png",
                 "title": "CF-小霸王",
@@ -361,6 +367,12 @@
                         "logo": "assets/images/logos/photoshop.png",
                         "title": "小说",
                         "desc": "第三方工口小说站"
+                    },
+                     {
+                        "url": "https://paobook.pages.dev/",
+                        "logo": "assets/images/logos/photoshop.png",
+                        "title": "PUA",
+                        "desc": "PUA炮学"
                     }
                 ]
             },
