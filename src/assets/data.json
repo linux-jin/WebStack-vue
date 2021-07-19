@@ -230,7 +230,7 @@
                     },
                     {
                         "url": "https://mistyhilloffice.vercel.app/",
-                        "logo": "assets/images/logos/freepik.png",
+                        "logo": "assets/images/logos/nipic.png",
                         "title": "Vercel-ONLYOFFICE",
                         "desc": "Vercel搭建的ONLYOFFICE,后端为okteto"
                     }
@@ -290,6 +290,12 @@
                 "logo": "assets/images/logos/dribbble.png",
                 "title": "CF-云空调",
                 "desc": "吹个毛空调"
+            },
+            {
+                "url": "https://warmer.pages.dev/",
+                "logo": "assets/images/logos/90sheji.png",
+                "title": "CF-云暖手宝",
+                "desc": "吹个毛暖气"
             },
             {
                 "url": "https://coldfan.pages.dev/",
