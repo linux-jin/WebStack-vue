@@ -163,6 +163,12 @@
                 "en_name": "CLOUDFLARE-PAGE",
                 "web": [
                     {
+                        "url": "https://myclash.pages.dev/",
+                        "logo": "assets/images/logos/unsplash.png",
+                        "title": "CF-CLASH",
+                        "desc": "ssr/v2等订阅转换"
+                    },
+                    {
                         "url": "https://sosos.pages.dev/",
                         "logo": "assets/images/logos/sizzy.png",
                         "title": "CF-HOT",
