@@ -391,6 +391,18 @@
                         "logo": "assets/images/logos/euxbaidu.png",
                         "title": "PAPAGO",
                         "desc": "无广告"
+                    },
+                    {
+                        "url": "http://x18r.co/",
+                        "logo": "assets/images/logos/tretars.png",
+                        "title": "PAPAGO",
+                        "desc": "狩都高速"
+                    },
+                    {
+                        "url": "http://xlist.org/",
+                        "logo": "assets/images/logos/500d.png",
+                        "title": "PAPAGO",
+                        "desc": "番号查找"
                     }
                 ]
             },
