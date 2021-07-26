@@ -146,9 +146,15 @@
                     },
                     {
                         "url": "https://short.666986.xyz/",
-                        "logo": "assets/images/logos/flaticon.png",
+                        "logo": "assets/images/logos/notaselfie.png",
                         "title": "CF-SHORT",
                         "desc": "缩短网址"
+                    },
+                    {
+                        "url": "https://small.666986.xyz/",
+                        "logo": "assets/images/logos/flaticon.png",
+                        "title": "SHORT",
+                        "desc": "t.im缩短网址"
                     },
                     {
                         "url": "https://git.666986.xyz/",
