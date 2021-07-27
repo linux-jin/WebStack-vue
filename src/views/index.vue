@@ -9,7 +9,11 @@
               <img src="../assets/images/logo@2x.png" width="100%" alt="" />
             </a>
             <a href="#" class="logo-collapsed">
-              <img src="../assets/images/logo-collapsed@2x.png" width="40" alt="" />
+              <img
+                src="../assets/images/logo-collapsed@2x.png"
+                width="40"
+                alt=""
+              />
             </a>
           </div>
           <div class="mobile-menu-toggle visible-xs">
@@ -24,15 +28,23 @@
         <!-- 侧边栏 -->
         <ul id="main-menu" class="main-menu">
           <li v-for="(menu, idx) in items" :key="idx">
-            <a :href="'#'+transName(menu)" class="smooth" @click="moveSlow">
+            <a :href="'#' + transName(menu)" class="smooth" @click="moveSlow">
               <i :class="menu.icon"></i>
-              <span class="title">{{transName(menu)}}</span>
+              <span class="title">{{ transName(menu) }}</span>
             </a>
             <ul v-if="menu.children">
               <li v-for="(submenu, idx) in menu.children" :key="idx">
-                <a :href="'#'+transName(submenu)" class="smooth" @click="moveSlow">
-                  <span class="title">{{transName(submenu)}}</span>
-                  <span v-show="submenu.is_hot" class="label label-pink pull-right hidden-collapsed">Hot</span>
+                <a
+                  :href="'#' + transName(submenu)"
+                  class="smooth"
+                  @click="moveSlow"
+                >
+                  <span class="title">{{ transName(submenu) }}</span>
+                  <span
+                    v-show="submenu.is_hot"
+                    class="label label-pink pull-right hidden-collapsed"
+                    >Hot</span
+                  >
                 </a>
               </li>
             </ul>
@@ -42,7 +54,9 @@
             <router-link to="/about">
               <i class="linecons-heart"></i>
               <span class="tooltip-blue">关于本站</span>
-              <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
+              <span class="label label-Primary pull-right hidden-collapsed"
+                >♥︎</span
+              >
             </router-link>
           </li>
         </ul>
@@ -60,7 +74,11 @@
               <img :src="lang.flag" /> {{ lang.name }}
             </a>
             <ul class="dropdown-menu languages">
-              <li :class="{active: langItem.key === lang.key}" v-for="langItem in langList" :key="langItem.key">
+              <li
+                :class="{ active: langItem.key === lang.key }"
+                v-for="langItem in langList"
+                :key="langItem.key"
+              >
                 <a href="#" @click="lang = langItem">
                   <img :src="langItem.flag" /> {{ langItem.name }}
                 </a>
@@ -107,24 +125,39 @@ export default {
       items: itemsData,
       lang: {},
       langList: [
-        {key: 'zh', name: '简体中文', flag: './assets/images/flags/flag-cn.png'},
-        {key: 'en', name: 'English', flag: './assets/images/flags/flag-us.png'}
+        {
+          key: 'zh',
+          name: '简体中文',
+          flag: './assets/images/flags/flag-cn.png'
+        },
+        {
+          key: 'en',
+          name: 'English',
+          flag: './assets/images/flags/flag-us.png'
+        }
       ]
     }
   },
   created() {
     this.lang = this.langList[0]
+    this.items = this.items.filter(item => item.en_name !== 'NSFW')
+  },
+  mounted() {
+    this.$bus.$on('colorFlag', msg => {
+      if (msg) {
+        this.items = this.items.filter(item => item.en_name !== 'NSFW')
+      } else {
+        this.items = itemsData
+      }
+    })
   },
   methods: {
     transName(webItem) {
-      return this.lang.key === 'en' ? webItem.en_name : webItem.name;
+      return this.lang.key === 'en' ? webItem.en_name : webItem.name
     },
-    moveSlow() {
-
-    }
+    moveSlow() {}
   }
 }
 </script>
 
-<style>
-</style>
+<style></style>

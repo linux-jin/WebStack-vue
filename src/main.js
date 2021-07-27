@@ -14,6 +14,7 @@ import './assets/css/nav.css'
 
 Vue.config.productionTip = false
 Vue.use(VueRouter)
+Vue.prototype.$bus = new Vue()
 
 const routes = [
   { path: '/', component: Index },
