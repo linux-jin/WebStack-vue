@@ -57,11 +57,11 @@
                   <div class="col-sm-4">
                     <div
                       class="xe-widget xe-conversations box2 label-info"
-                      onclick="window.open('https://www.666986.xyz/', '_blank')"
+                      onclick="window.open('https://blog.missss.net/', '_blank')"
                       data-toggle="tooltip"
                       data-placement="bottom"
                       title=""
-                      data-original-title="https://www.666986.xyz/"
+                      data-original-title="https://blog.missss.net/"
                     >
                       <div class="xe-comment-entry">
                         <a class="xe-user-img">
