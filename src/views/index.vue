@@ -88,7 +88,7 @@
         </ul>
         <ul class="user-info-menu right-links list-inline list-unstyled">
           <li class="hidden-sm hidden-xs">
-            <a href="https://github.com/beer-on-ice" target="_blank">
+            <a href="https://github.com/beer-on-ice/nav" target="_blank">
               <i class="fa-github"></i> GitHub
             </a>
           </li>
