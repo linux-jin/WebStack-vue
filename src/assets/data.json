@@ -103,6 +103,18 @@
                 "en_name": "CLOUDFLARE-WORKER",
                 "web": [
                     {
+                        "url": "https://inkrss.666986.xyz/subpage",
+                        "logo": "assets/images/logos/human_interface_guidelines.png",
+                        "title": "CF-Status",
+                        "desc": "订阅推送"
+                    },
+                    {
+                        "url": "https://status.666986.xyz/",
+                        "logo": "assets/images/logos/photoshopetiquette.png",
+                        "title": "CF-Status",
+                        "desc": "站点检测"
+                    },
+                    {
                         "url": "https://apis.666986.xyz/",
                         "logo": "assets/images/logos/Iconfinder.png",
                         "title": "CF-APIS",
