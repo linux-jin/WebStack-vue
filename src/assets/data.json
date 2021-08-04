@@ -181,6 +181,12 @@
                 "en_name": "CLOUDFLARE-PAGE",
                 "web": [
                     {
+                        "url": "https://fishrss.pages.dev/",
+                        "logo": "assets/images/logos/unsplash.png",
+                        "title": "CF-RSSREAD",
+                        "desc": "高仿outlook的rss阅读"
+                    },
+                    {
                         "url": "https://myclash.pages.dev/",
                         "logo": "assets/images/logos/unsplash.png",
                         "title": "CF-CLASH",
