@@ -11,7 +11,7 @@
                 "desc": "反向代理穿越大墙"
             },
             {
-                "url": "https://cf-proxy.trojan.workers.dev/",
+                "url": "https://proxy.666986.xyz/",
                 "logo": "assets/images/logos/36kr.png",
                 "title": "CF-ProxySite",
                 "desc": "反向代理穿越大墙2"
@@ -29,7 +29,7 @@
                 "is_hot": true,
                 "web": [
                     {
-                        "url": "https://gt-dl.glitch.me/",
+                        "url": "https://gtm.666986.xyz/",
                         "logo": "assets/images/logos/Pttrns.png",
                         "title": "GT-DOM",
                         "desc": "提供阿里，微软，谷歌的直链云盘"
@@ -66,7 +66,7 @@
                         "desc": "提供谷歌车盘直链"
                     },
                     {
-                        "url": "https://cf-bdpcs.trojan.workers.dev/",
+                        "url": "https://bdpcs.666986.xyz/",
                         "logo": "assets/images/logos/appinn.png",
                         "title": "CF-BAIDU",
                         "desc": "提供百度云盘直链"
@@ -78,13 +78,13 @@
                 "en_name": "HERO-聚合云盘",
                 "web": [
                     {
-                        "url": "https://hero-pan.trojan.workers.dev/",
+                        "url": "https://hero.666986.xyz/",
                         "logo": "assets/images/logos/awwwards.png",
                         "title": "HERO-PAN",
                         "desc": "herokuapp搭建，提供天翼，谷歌车盘直链"
                     },
                     {
-                        "url": "https://hill-odm.herokuapp.com/",
+                        "url": "https://red-odm.666986.xyz/",
                         "logo": "assets/images/logos/CSSDesignAwards.png",
                         "title": "HERO-ODM",
                         "desc": "herokuapp搭建，使用OnemanagerPhp程序"
