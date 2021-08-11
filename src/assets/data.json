@@ -253,16 +253,34 @@
                 "en_name": "OTHER",
                 "web": [
                     {
-                        "url": "https://aria-tau.vercel.app/",
+                        "url": "https://aria.666986.xyz/",
                         "logo": "assets/images/logos/freepik.png",
                         "title": "Vercel-Aria",
                         "desc": "Vercel搭建的aria2Ng前端面板"
                     },
                     {
-                        "url": "https://mistyhilloffice.vercel.app/",
+                        "url": "https://office.666986.xyz/",
                         "logo": "assets/images/logos/nipic.png",
                         "title": "Vercel-ONLYOFFICE",
                         "desc": "Vercel搭建的ONLYOFFICE,后端为okteto"
+                    },
+                    {
+                        "url": "https://163.666986.xyz/",
+                        "logo": "assets/images/logos/nipic.png",
+                        "title": "Vercel-163API",
+                        "desc": "Vercel搭建的网易云API"
+                    },
+                    {
+                        "url": "https://waline.666986.xyz/",
+                        "logo": "assets/images/logos/nipic.png",
+                        "title": "Vercel-waline",
+                        "desc": "Vercel搭建的waline评论"
+                    },
+                    {
+                        "url": "https://rsshub.666986.xyz/",
+                        "logo": "assets/images/logos/nipic.png",
+                        "title": "Vercel-rsshub",
+                        "desc": "Vercel搭建的rsshub订阅"
                     }
                 ]
             },
@@ -444,6 +462,12 @@
                         "url": "http://moe.ci/api.php",
                         "logo": "assets/images/logos/principle.png",
                         "title": "随机美图",
+                        "desc": "随机美图API"
+                    },
+                    {
+                        "url": "https://random.arrontg.cf",
+                        "logo": "assets/images/logos/principle.png",
+                        "title": "随机美女",
                         "desc": "随机美图API"
                     }
                 ]
