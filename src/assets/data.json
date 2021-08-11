@@ -42,7 +42,7 @@
                 "web": [
                    
                     {
-                        "url": "https://cf-op.666986.xyz/",
+                        "url": "https://disk.666986.xyz/",
                         "logo": "assets/images/logos/NEXT.png",
                         "title": "CF-OnePoint",
                         "desc": "使用OnePoint搭建，提供阿里，谷歌，微软云盘直链"
@@ -84,7 +84,7 @@
                         "desc": "herokuapp搭建，提供天翼，谷歌车盘直链"
                     },
                     {
-                        "url": "https://red-odm.666986.xyz/",
+                        "url": "https://herom.666986.xyz/",
                         "logo": "assets/images/logos/CSSDesignAwards.png",
                         "title": "HERO-ODM",
                         "desc": "herokuapp搭建，使用OnemanagerPhp程序"
