@@ -29,7 +29,7 @@
                 "is_hot": true,
                 "web": [
                     {
-                        "url": "https://gtm.666986.xyz/",
+                        "url": "https://pan.666986.xyz/",
                         "logo": "assets/images/logos/Pttrns.png",
                         "title": "GT-DOM",
                         "desc": "提供阿里，微软，谷歌的直链云盘"
@@ -151,7 +151,7 @@
                         "desc": "导航程序"
                     },
                     {
-                        "url": "https://pan.666986.xyz/",
+                        "url": "https://pandown.666986.xyz/",
                         "logo": "assets/images/logos/easyicon.png",
                         "title": "CF-PAN",
                         "desc": "百度网盘解析下载"
