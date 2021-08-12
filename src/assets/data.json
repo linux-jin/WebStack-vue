@@ -121,18 +121,6 @@
                         "desc": "免除api请求限制"
                     },
                     {
-                        "url": "https://vaporwave.pages.dev/",
-                        "logo": "assets/images/logos/Iconfinder.png",
-                        "title": "CF-VAPRO",
-                        "desc": "蒸汽波风格图片后期"
-                    },
-                    {
-                        "url": "https://cf-ipfs.pages.dev/",
-                        "logo": "assets/images/logos/iconfont.png",
-                        "title": "CF-IPFS",
-                        "desc": "去中心化IPFS图床"
-                    },
-                    {
                         "url": "https://cf-img.666986.xyz/",
                         "logo": "assets/images/logos/iconmonstr.png",
                         "title": "CF-IMGUP",
@@ -186,6 +174,24 @@
                 "name": "CLOUDFLARE-PAGE",
                 "en_name": "CLOUDFLARE-PAGE",
                 "web": [
+                    {
+                        "url": "https://vaporwave.pages.dev/",
+                        "logo": "assets/images/logos/Iconfinder.png",
+                        "title": "CF-VAPRO",
+                        "desc": "蒸汽波风格图片后期"
+                    },
+                    {
+                        "url": "https://cf-ipfs.pages.dev/",
+                        "logo": "assets/images/logos/iconfont.png",
+                        "title": "CF-IPFS",
+                        "desc": "去中心化IPFS图床"
+                    },
+                    {
+                        "url": "https://logoly.pages.dev/",
+                        "logo": "assets/images/logos/Iconfinder.png",
+                        "title": "CF-LOGOLY",
+                        "desc": "P站风格logo生成"
+                    },
                     {
                         "url": "https://fishrss.pages.dev/",
                         "logo": "assets/images/logos/unsplash.png",
