@@ -121,6 +121,12 @@
                         "desc": "免除api请求限制"
                     },
                     {
+                        "url": "https://vaporwave.pages.dev/",
+                        "logo": "assets/images/logos/Iconfinder.png",
+                        "title": "CF-VAPRO",
+                        "desc": "蒸汽波风格图片后期"
+                    },
+                    {
                         "url": "https://cf-ipfs.pages.dev/",
                         "logo": "assets/images/logos/iconfont.png",
                         "title": "CF-IPFS",
