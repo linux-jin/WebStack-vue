@@ -457,6 +457,12 @@
                         "logo": "assets/images/logos/500d.png",
                         "title": "PAPAGO",
                         "desc": "番号查找"
+                    },
+                    {
+                        "url": "http://diskgirl.com/",
+                        "logo": "assets/images/logos/500d.png",
+                        "title": "硬盘少女",
+                        "desc": "硬盘少女"
                     }
                 ]
             },
@@ -481,6 +487,12 @@
                         "logo": "assets/images/logos/principle.png",
                         "title": "随机美女",
                         "desc": "随机美图API"
+                    },
+                    {
+                        "url": "https://2girl.top",
+                        "logo": "assets/images/logos/principle.png",
+                        "title": "美女图站",
+                        "desc": "美女图站"
                     }
                 ]
             }
