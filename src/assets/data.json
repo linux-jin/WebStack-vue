@@ -175,6 +175,18 @@
                 "en_name": "CLOUDFLARE-PAGE",
                 "web": [
                     {
+                        "url": "https://myclash.pages.dev/",
+                        "logo": "assets/images/logos/unsplash.png",
+                        "title": "CF-CLASH",
+                        "desc": "ssr/v2等订阅转换"
+                    },
+                    {
+                        "url": "https://helper.pages.dev/",
+                        "logo": "assets/images/logos/unsplash.png",
+                        "title": "CF-COMMAND",
+                        "desc": "Linux常用指令查询"
+                    },
+                    {
                         "url": "https://vaporwave.pages.dev/",
                         "logo": "assets/images/logos/Iconfinder.png",
                         "title": "CF-VAPRO",
@@ -198,12 +210,7 @@
                         "title": "CF-RSSREAD",
                         "desc": "高仿outlook的rss阅读"
                     },
-                    {
-                        "url": "https://myclash.pages.dev/",
-                        "logo": "assets/images/logos/unsplash.png",
-                        "title": "CF-CLASH",
-                        "desc": "ssr/v2等订阅转换"
-                    },
+                    
                     {
                         "url": "https://sosos.pages.dev/",
                         "logo": "assets/images/logos/sizzy.png",
