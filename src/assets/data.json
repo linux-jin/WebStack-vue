@@ -51,22 +51,19 @@
                         "url": "https://odm.666986.xyz/",
                         "logo": "assets/images/logos/sspai.png",
                         "title": "CF-ODM",
-                        "desc": "提供微软云盘直链",
-                        "show":false
+                        "desc": "提供微软云盘直链"
                     }, 
                     {
                         "url": "https://cf-gds.666986.xyz/",
                         "logo": "assets/images/logos/liqi.png",
                         "title": "CF-GDS",
-                        "desc": "提供谷歌车盘直链",
-                        "show":false
+                        "desc": "提供谷歌车盘直链"
                     },
                     {
                         "url": "https://cf-gd.666986.xyz/",
                         "logo": "assets/images/logos/today.png",
                         "title": "CF-GD",
-                        "desc": "提供谷歌车盘直链",
-                        "show":false
+                        "desc": "提供谷歌车盘直链"
                     },
                     {
                         "url": "https://bdpcs.666986.xyz/",
