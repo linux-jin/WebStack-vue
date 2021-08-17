@@ -6,7 +6,7 @@
           <!-- logo -->
           <div class="logo">
             <a href="#" class="logo-expanded">
-              <img src="../assets/images/logo@2x.png" width="100%" alt="" />
+              <img src="../assets/images/logo.png" width="100%" alt="" />
             </a>
             <a href="#" class="logo-collapsed">
               <img
