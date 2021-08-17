@@ -28,7 +28,12 @@
         <!-- 侧边栏 -->
         <ul id="main-menu" class="main-menu">
           <li v-for="(menu, idx) in items" :key="idx">
-            <a :href="'#' + transName(menu)" class="smooth" @click="moveSlow">
+            <a
+              :href="'#' + transName(menu)"
+              class="smooth"
+              @click="moveSlow"
+              v-show="!menu.hidden"
+            >
               <i :class="menu.icon"></i>
               <span class="title">{{ transName(menu) }}</span>
             </a>
@@ -100,7 +105,11 @@
           <WebItem :item="item" :transName="transName" />
         </div>
         <div v-else v-for="(subItem, idx) in item.children" :key="idx">
-          <WebItem :item="subItem" :transName="transName" />
+          <WebItem
+            v-show="!item.hidden"
+            :item="subItem"
+            :transName="transName"
+          />
         </div>
       </div>
 
@@ -113,6 +122,7 @@
 import WebItem from '../components/WebItem.vue'
 import Footer from '../components/Footer.vue'
 import itemsData from '../assets/data.json'
+import itemsAllData from '../assets/all.json'
 
 export default {
   name: 'Index',
@@ -140,14 +150,14 @@ export default {
   },
   created() {
     this.lang = this.langList[0]
-    this.items = this.items.filter(item => item.en_name !== 'NSFW')
+    this.items = [...itemsData]
   },
   mounted() {
     this.$bus.$on('colorFlag', msg => {
       if (msg) {
-        this.items = this.items.filter(item => item.en_name !== 'NSFW')
+        this.items = [...itemsData]
       } else {
-        this.items = itemsData
+        this.items = [...itemsAllData]
       }
     })
   },

@@ -17,7 +17,7 @@
                 "desc": "反向代理穿越大墙2"
             }
         ]
-    }, 
+    },
     {
         "name": "个人网盘",
         "en_name": "SelfCloud",
@@ -40,7 +40,6 @@
                 "name": "CLOUDFLARE-WORKER搭建",
                 "en_name": "Product",
                 "web": [
-                   
                     {
                         "url": "https://disk.666986.xyz/",
                         "logo": "assets/images/logos/NEXT.png",
@@ -51,19 +50,22 @@
                         "url": "https://odm.666986.xyz/",
                         "logo": "assets/images/logos/sspai.png",
                         "title": "CF-ODM",
-                        "desc": "提供微软云盘直链"
-                    }, 
+                        "desc": "提供微软云盘直链",
+                        "hidden": true
+                    },
                     {
                         "url": "https://cf-gds.666986.xyz/",
                         "logo": "assets/images/logos/liqi.png",
                         "title": "CF-GDS",
-                        "desc": "提供谷歌车盘直链"
+                        "desc": "提供谷歌车盘直链",
+                        "hidden": true
                     },
                     {
                         "url": "https://cf-gd.666986.xyz/",
                         "logo": "assets/images/logos/today.png",
                         "title": "CF-GD",
-                        "desc": "提供谷歌车盘直链"
+                        "desc": "提供谷歌车盘直链",
+                        "hidden": true
                     },
                     {
                         "url": "https://bdpcs.666986.xyz/",
@@ -87,7 +89,8 @@
                         "url": "https://herom.666986.xyz/",
                         "logo": "assets/images/logos/CSSDesignAwards.png",
                         "title": "HERO-ODM",
-                        "desc": "herokuapp搭建，使用OnemanagerPhp程序"
+                        "desc": "herokuapp搭建，使用OnemanagerPhp程序",
+                        "hidden": true
                     }
                 ]
             }
@@ -210,7 +213,6 @@
                         "title": "CF-RSSREAD",
                         "desc": "高仿outlook的rss阅读"
                     },
-                    
                     {
                         "url": "https://sosos.pages.dev/",
                         "logo": "assets/images/logos/sizzy.png",
@@ -398,8 +400,9 @@
     },
     {
         "name": "颜色专区",
-        "en_name": "NSFW",
+        "en_name": "Color",
         "icon": "linecons-diamond",
+        "hidden": true,
         "children": [
             {
                 "name": "小说",
@@ -411,7 +414,7 @@
                         "title": "小说",
                         "desc": "第三方工口小说站"
                     },
-                     {
+                    {
                         "url": "https://paobook.pages.dev/",
                         "logo": "assets/images/logos/photoshop.png",
                         "title": "PUA",

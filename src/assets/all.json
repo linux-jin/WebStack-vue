@@ -1,0 +1,506 @@
+[
+  {
+    "name": "自由飞行",
+    "en_name": "FREEDOM",
+    "icon": "linecons-doc",
+    "web": [
+      {
+        "url": "https://proxyall.666986.xyz/",
+        "logo": "assets/images/logos/leiphone.png",
+        "title": "CF-ProxyAll",
+        "desc": "反向代理穿越大墙"
+      },
+      {
+        "url": "https://proxy.666986.xyz/",
+        "logo": "assets/images/logos/36kr.png",
+        "title": "CF-ProxySite",
+        "desc": "反向代理穿越大墙2"
+      }
+    ]
+  },
+  {
+    "name": "个人网盘",
+    "en_name": "SelfCloud",
+    "icon": "linecons-lightbulb",
+    "children": [
+      {
+        "name": "GLITCH搭建",
+        "en_name": "UI Inspiration",
+        "is_hot": true,
+        "web": [
+          {
+            "url": "https://pan.666986.xyz/",
+            "logo": "assets/images/logos/Pttrns.png",
+            "title": "GT-DOM",
+            "desc": "提供阿里，微软，谷歌的直链云盘"
+          }
+        ]
+      },
+      {
+        "name": "CLOUDFLARE-WORKER搭建",
+        "en_name": "Product",
+        "web": [
+          {
+            "url": "https://disk.666986.xyz/",
+            "logo": "assets/images/logos/NEXT.png",
+            "title": "CF-OnePoint",
+            "desc": "使用OnePoint搭建，提供阿里，谷歌，微软云盘直链"
+          },
+          {
+            "url": "https://odm.666986.xyz/",
+            "logo": "assets/images/logos/sspai.png",
+            "title": "CF-ODM",
+            "desc": "提供微软云盘直链"
+          },
+          {
+            "url": "https://cf-gds.666986.xyz/",
+            "logo": "assets/images/logos/liqi.png",
+            "title": "CF-GDS",
+            "desc": "提供谷歌车盘直链"
+          },
+          {
+            "url": "https://cf-gd.666986.xyz/",
+            "logo": "assets/images/logos/today.png",
+            "title": "CF-GD",
+            "desc": "提供谷歌车盘直链"
+          },
+          {
+            "url": "https://bdpcs.666986.xyz/",
+            "logo": "assets/images/logos/appinn.png",
+            "title": "CF-BAIDU",
+            "desc": "提供百度云盘直链"
+          }
+        ]
+      },
+      {
+        "name": "HEROKUAPP搭建",
+        "en_name": "HERO-聚合云盘",
+        "web": [
+          {
+            "url": "https://hero.666986.xyz/",
+            "logo": "assets/images/logos/awwwards.png",
+            "title": "HERO-PAN",
+            "desc": "herokuapp搭建，提供天翼，谷歌车盘直链"
+          },
+          {
+            "url": "https://herom.666986.xyz/",
+            "logo": "assets/images/logos/CSSDesignAwards.png",
+            "title": "HERO-ODM",
+            "desc": "herokuapp搭建，使用OnemanagerPhp程序"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "常用功能",
+    "en_name": "FUNCTIONS",
+    "icon": "linecons-thumbs-up",
+    "children": [
+      {
+        "name": "CLOUDFLARE-WORKER",
+        "en_name": "CLOUDFLARE-WORKER",
+        "web": [
+          {
+            "url": "https://inkrss.666986.xyz/subpage",
+            "logo": "assets/images/logos/human_interface_guidelines.png",
+            "title": "CF-Inkrss",
+            "desc": "订阅推送"
+          },
+          {
+            "url": "https://status.666986.xyz/",
+            "logo": "assets/images/logos/photoshopetiquette.png",
+            "title": "CF-Status",
+            "desc": "站点检测"
+          },
+          {
+            "url": "https://apis.666986.xyz/",
+            "logo": "assets/images/logos/Iconfinder.png",
+            "title": "CF-APIS",
+            "desc": "免除api请求限制"
+          },
+          {
+            "url": "https://cf-img.666986.xyz/",
+            "logo": "assets/images/logos/iconmonstr.png",
+            "title": "CF-IMGUP",
+            "desc": "另一款去中心化IPFS图床"
+          },
+          {
+            "url": "https://blog.666986.xyz/",
+            "logo": "assets/images/logos/iconarchive.png",
+            "title": "CF-BLOG",
+            "desc": "博客程序"
+          },
+          {
+            "url": "https://down.666986.xyz/",
+            "logo": "assets/images/logos/FindIcons.png",
+            "title": "CF-DOWN",
+            "desc": "加速下载"
+          },
+          {
+            "url": "https://guide.666986.xyz/",
+            "logo": "assets/images/logos/IcoMoonApp.png",
+            "title": "CF-GUIDE",
+            "desc": "导航程序"
+          },
+          {
+            "url": "https://pandown.666986.xyz/",
+            "logo": "assets/images/logos/easyicon.png",
+            "title": "CF-PAN",
+            "desc": "百度网盘解析下载"
+          },
+          {
+            "url": "https://short.666986.xyz/",
+            "logo": "assets/images/logos/notaselfie.png",
+            "title": "CF-SHORT",
+            "desc": "缩短网址"
+          },
+          {
+            "url": "https://small.666986.xyz/",
+            "logo": "assets/images/logos/flaticon.png",
+            "title": "SHORT",
+            "desc": "t.im缩短网址"
+          },
+          {
+            "url": "https://git.666986.xyz/",
+            "logo": "assets/images/logos/UICloud.png",
+            "title": "CF-GIT",
+            "desc": "GIT加速下载"
+          }
+        ]
+      },
+      {
+        "name": "CLOUDFLARE-PAGE",
+        "en_name": "CLOUDFLARE-PAGE",
+        "web": [
+          {
+            "url": "https://myclash.pages.dev/",
+            "logo": "assets/images/logos/unsplash.png",
+            "title": "CF-CLASH",
+            "desc": "ssr/v2等订阅转换"
+          },
+          {
+            "url": "https://helper.pages.dev/",
+            "logo": "assets/images/logos/unsplash.png",
+            "title": "CF-COMMAND",
+            "desc": "Linux常用指令查询"
+          },
+          {
+            "url": "https://vaporwave.pages.dev/",
+            "logo": "assets/images/logos/Iconfinder.png",
+            "title": "CF-VAPRO",
+            "desc": "蒸汽波风格图片后期"
+          },
+          {
+            "url": "https://cf-ipfs.pages.dev/",
+            "logo": "assets/images/logos/iconfont.png",
+            "title": "CF-IPFS",
+            "desc": "去中心化IPFS图床"
+          },
+          {
+            "url": "https://logoly.pages.dev/",
+            "logo": "assets/images/logos/Iconfinder.png",
+            "title": "CF-LOGOLY",
+            "desc": "P站风格logo生成"
+          },
+          {
+            "url": "https://fishrss.pages.dev/",
+            "logo": "assets/images/logos/unsplash.png",
+            "title": "CF-RSSREAD",
+            "desc": "高仿outlook的rss阅读"
+          },
+          {
+            "url": "https://sosos.pages.dev/",
+            "logo": "assets/images/logos/sizzy.png",
+            "title": "CF-HOT",
+            "desc": "搜索、热榜功能"
+          },
+          {
+            "url": "https://ao.pages.dev/",
+            "logo": "assets/images/logos/iconsfeed.png",
+            "title": "CF-MUSIC",
+            "desc": "自建的音乐网站"
+          },
+          {
+            "url": "https://uv.pages.dev/",
+            "logo": "assets/images/logos/iosicongallery.png",
+            "title": "CF-MUSIC-UNLOCK",
+            "desc": "自建音乐解锁"
+          },
+          {
+            "url": "https://pup.pages.dev/",
+            "logo": "assets/images/logos/worldvectorlogo.png",
+            "title": "CF-图片上传",
+            "desc": "调用第三方api的图床软件"
+          },
+          {
+            "url": "https://wallhaven.pages.dev/",
+            "logo": "assets/images/logos/InstantLogoSearch.png",
+            "title": "CF-壁纸",
+            "desc": "壁纸网站"
+          },
+          {
+            "url": "https://fuckip.pages.dev/",
+            "logo": "assets/images/logos/uiuigreat.png",
+            "title": "CF-IPCHECKER",
+            "desc": "IP归属地查询"
+          },
+          {
+            "url": "https://fuckips.pages.dev/",
+            "logo": "assets/images/logos/AndroidNiceties.png",
+            "title": "CF-IPCHECKER2",
+            "desc": "IP归属地查询2"
+          },
+          {
+            "url": "https://marksfz.pages.dev/",
+            "logo": "assets/images/logos/fwa.png",
+            "title": "CF-水印",
+            "desc": "给上传的图片打水印"
+          },
+          {
+            "url": "https://nut.pages.dev/",
+            "logo": "assets/images/logos/Ecommercefolio.png",
+            "title": "CF-AriaNg",
+            "desc": "ariaNg前端页面，仅供https"
+          }
+        ]
+      },
+      {
+        "name": "OTHER",
+        "en_name": "OTHER",
+        "web": [
+          {
+            "url": "https://aria.666986.xyz/",
+            "logo": "assets/images/logos/freepik.png",
+            "title": "Vercel-Aria",
+            "desc": "Vercel搭建的aria2Ng前端面板"
+          },
+          {
+            "url": "https://office.666986.xyz/",
+            "logo": "assets/images/logos/nipic.png",
+            "title": "Vercel-ONLYOFFICE",
+            "desc": "Vercel搭建的ONLYOFFICE,后端为okteto"
+          },
+          {
+            "url": "https://163.666986.xyz/",
+            "logo": "assets/images/logos/nipic.png",
+            "title": "Vercel-163API",
+            "desc": "Vercel搭建的网易云API"
+          },
+          {
+            "url": "https://waline.666986.xyz/",
+            "logo": "assets/images/logos/nipic.png",
+            "title": "Vercel-waline",
+            "desc": "Vercel搭建的waline评论"
+          },
+          {
+            "url": "https://rsshub.666986.xyz/",
+            "logo": "assets/images/logos/nipic.png",
+            "title": "Vercel-rsshub",
+            "desc": "Vercel搭建的rsshub订阅"
+          }
+        ]
+      },
+      {
+        "name": "EUSERV",
+        "en_name": "EUSERV",
+        "web": [
+          {
+            "url": "https://bt.666986.xyz",
+            "logo": "assets/images/logos/wallhalla.png",
+            "title": "BT-TGHIMG",
+            "desc": "德国鸡搭建的TELEGRAPH-IMAGE"
+          },
+          {
+            "url": "https://btt.666986.xyz",
+            "logo": "assets/images/logos/365PSD.png",
+            "title": "BTT-ODM",
+            "desc": "德国鸡搭建的ODM"
+          },
+          {
+            "url": "https://tb.666986.xyz",
+            "logo": "assets/images/logos/Medialoot.png",
+            "title": "TB-IPFSTUBE",
+            "desc": "德国鸡搭建的IPFSTUBE"
+          },
+          {
+            "url": "https://tbb.666986.xyz",
+            "logo": "assets/images/logos/qiantu.png",
+            "title": "TBB-SHARELIST",
+            "desc": "德国鸡搭建的SHARELIST"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "娱乐专区",
+    "en_name": "FUNNY",
+    "icon": "linecons-star",
+    "web": [
+      {
+        "url": "https://zhangwei.pages.dev/",
+        "logo": "assets/images/logos/dribbble.png",
+        "title": "CF-贪吃蛇",
+        "desc": "贪吃蛇"
+      },
+      {
+        "url": "https://fuckdog.pages.dev/",
+        "logo": "assets/images/logos/behance.png",
+        "title": "CF-舔狗",
+        "desc": "舔到最后一无所有"
+      },
+      {
+        "url": "https://coldair.pages.dev/",
+        "logo": "assets/images/logos/dribbble.png",
+        "title": "CF-云空调",
+        "desc": "吹个毛空调"
+      },
+      {
+        "url": "https://warmer.pages.dev/",
+        "logo": "assets/images/logos/90sheji.png",
+        "title": "CF-云暖手宝",
+        "desc": "吹个毛暖气"
+      },
+      {
+        "url": "https://coldfan.pages.dev/",
+        "logo": "assets/images/logos/zcool.png",
+        "title": "CF-云风扇",
+        "desc": "吹个毛风"
+      },
+      {
+        "url": "https://oldtv.pages.dev/",
+        "logo": "assets/images/logos/pinterest.png",
+        "title": "CF-老电视",
+        "desc": "老电视机"
+      },
+      {
+        "url": "https://gbajs.pages.dev/",
+        "logo": "assets/images/logos/CollectUI.png",
+        "title": "CF-GBA",
+        "desc": "经典GBA游戏"
+      },
+      {
+        "url": "https://oldfc.pages.dev/",
+        "logo": "assets/images/logos/CollectUI.png",
+        "title": "CF-小霸王",
+        "desc": "经典小霸王游戏"
+      },
+      {
+        "url": "https://russiatetris.pages.dev/",
+        "logo": "assets/images/logos/huaban.png",
+        "title": "CF-俄罗斯方块",
+        "desc": "经典俄罗斯方块游戏"
+      }
+    ]
+  },
+  {
+    "name": "颜色专区",
+    "en_name": "Color",
+    "icon": "linecons-diamond",
+    "children": [
+      {
+        "name": "小说",
+        "en_name": "book",
+        "web": [
+          {
+            "url": "https://book.uoe.men/",
+            "logo": "assets/images/logos/photoshop.png",
+            "title": "小说",
+            "desc": "第三方工口小说站"
+          },
+          {
+            "url": "https://paobook.pages.dev/",
+            "logo": "assets/images/logos/photoshop.png",
+            "title": "PUA",
+            "desc": "PUA炮学"
+          }
+        ]
+      },
+      {
+        "name": "视频",
+        "en_name": "VIDEO",
+        "web": [
+          {
+            "url": "https://xxx-omega.vercel.app/",
+            "logo": "assets/images/logos/sketchapp.png",
+            "title": "VERCEL-XXX",
+            "desc": "vercel搭建的视频播放"
+          },
+          {
+            "url": "https://driver.pages.dev/",
+            "logo": "assets/images/logos/ADOBEXDCC.png",
+            "title": "CF-XXX",
+            "desc": "CLOUDFLARE搭建的视频播放"
+          },
+          {
+            "url": "https://nv.pages.dev/",
+            "logo": "assets/images/logos/ADOBEXDCC.png",
+            "title": "CF-XJJ",
+            "desc": "CLOUDFLARE搭建的XJJ跳舞"
+          },
+          {
+            "url": "https://embedy.cc/video/",
+            "logo": "assets/images/logos/ctrip.png",
+            "title": "随看",
+            "desc": "末尾带上番号即可"
+          },
+          {
+            "url": "http://papagoav1.com/",
+            "logo": "assets/images/logos/euxbaidu.png",
+            "title": "PAPAGO",
+            "desc": "无广告"
+          },
+          {
+            "url": "http://x18r.co/",
+            "logo": "assets/images/logos/tretars.png",
+            "title": "PAPAGO",
+            "desc": "狩都高速"
+          },
+          {
+            "url": "http://xlist.org/",
+            "logo": "assets/images/logos/500d.png",
+            "title": "PAPAGO",
+            "desc": "番号查找"
+          },
+          {
+            "url": "http://diskgirl.com/",
+            "logo": "assets/images/logos/500d.png",
+            "title": "硬盘少女",
+            "desc": "硬盘少女"
+          }
+        ]
+      },
+      {
+        "name": "图片",
+        "en_name": "PICS",
+        "web": [
+          {
+            "url": "http://img.btu.pp.ua/random/api.php",
+            "logo": "assets/images/logos/AdobeAfterEffectsCC.png",
+            "title": "随机风景",
+            "desc": "随机美图API"
+          },
+          {
+            "url": "http://moe.ci/api.php",
+            "logo": "assets/images/logos/principle.png",
+            "title": "随机美图",
+            "desc": "随机美图API"
+          },
+          {
+            "url": "https://random.arrontg.cf",
+            "logo": "assets/images/logos/principle.png",
+            "title": "随机美女",
+            "desc": "随机美图API"
+          },
+          {
+            "url": "https://2girl.top",
+            "logo": "assets/images/logos/principle.png",
+            "title": "美女图站",
+            "desc": "美女图站"
+          }
+        ]
+      }
+    ]
+  }
+]
