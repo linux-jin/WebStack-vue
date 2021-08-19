@@ -24,6 +24,19 @@
         "icon": "linecons-lightbulb",
         "children": [
             {
+                "name": "Vercel搭建",
+                "en_name": "UI Inspiration",
+                "is_hot": true,
+                "web": [
+                    {
+                        "url": "https://list.666986.xyz/",
+                        "logo": "assets/images/logos/Pttrns.png",
+                        "title": "Vercel-DOM",
+                        "desc": "提供阿里，微软，谷歌的直链云盘"
+                    }
+                ]
+            },
+            {
                 "name": "GLITCH搭建",
                 "en_name": "UI Inspiration",
                 "is_hot": true,
@@ -319,7 +332,7 @@
                         "url": "https://btt.666986.xyz",
                         "logo": "assets/images/logos/365PSD.png",
                         "title": "BTT-ODM",
-                        "desc": "德国鸡搭建的ODM"
+                        "desc": "德国鸡搭建的ODM(挂了)"
                     },
                     {
                         "url": "https://tb.666986.xyz",
