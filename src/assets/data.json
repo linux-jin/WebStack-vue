@@ -32,7 +32,7 @@
                         "url": "https://list.666986.xyz/",
                         "logo": "assets/images/logos/Pttrns.png",
                         "title": "Vercel-ODM",
-                        "desc": "提供阿里，微软，谷歌的直链云盘"
+                        "desc": "提供阿里，微软的直链云盘"
                     }
                 ]
             },
@@ -45,7 +45,7 @@
                         "url": "https://pan.666986.xyz/",
                         "logo": "assets/images/logos/Pttrns.png",
                         "title": "GT-ODM",
-                        "desc": "提供阿里，微软，谷歌的直链云盘"
+                        "desc": "提供阿里，微软的直链云盘"
                     }
                 ]
             },
@@ -101,8 +101,8 @@
                     {
                         "url": "https://herom.666986.xyz/",
                         "logo": "assets/images/logos/CSSDesignAwards.png",
-                        "title": "HERO-ODM",
-                        "desc": "herokuapp搭建，使用OnemanagerPhp程序",
+                        "title": "HERO-PanIndex",
+                        "desc": "herokuapp搭建，使用PanIndex程序，提供天翼，TeamBition国际直链",
                         "hidden": true
                     }
                 ]
