@@ -440,6 +440,12 @@
             "desc": "CLOUDFLARE搭建的XJJ跳舞"
           },
           {
+            "url": "https://madou.club/",
+            "logo": "assets/images/logos/ctrip.png",
+            "title": "麻豆社",
+            "desc": "麻豆社"
+          },
+          {
             "url": "https://embedy.cc/video/",
             "logo": "assets/images/logos/ctrip.png",
             "title": "随看",
@@ -462,6 +468,12 @@
             "logo": "assets/images/logos/500d.png",
             "title": "PAPAGO",
             "desc": "番号查找"
+          },
+          {
+            "url": "https://www.alipanso.com/",
+            "logo": "assets/images/logos/ctrip.png",
+            "title": "阿里云盘搜索",
+            "desc": "阿里云盘搜索"
           },
           {
             "url": "http://diskgirl.com/",
