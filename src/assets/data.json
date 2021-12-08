@@ -279,7 +279,25 @@
                         "logo": "assets/images/logos/Ecommercefolio.png",
                         "title": "CF-AriaNg",
                         "desc": "ariaNg前端页面，仅供https"
-                    }
+                    },
+                      {
+                        "url": "https://wastes.pages.dev/",
+                        "logo": "assets/images/logos/Ecommercefolio.png",
+                        "title": "CF-WASTE",
+                        "desc": "耗尽流量吧"
+                      },
+                      {
+                        "url": "https://tfile.pages.dev/",
+                        "logo": "assets/images/logos/Ecommercefolio.png",
+                        "title": "CF-TFILE",
+                        "desc": "tg文件存储"
+                      },
+                      {
+                        "url": "https://nearby.pages.dev/",
+                        "logo": "assets/images/logos/Ecommercefolio.png",
+                        "title": "CF-NEARBY",
+                        "desc": "附近的人"
+                      }
                 ]
             },
             {
