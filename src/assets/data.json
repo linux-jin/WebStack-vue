@@ -345,24 +345,6 @@
                         "logo": "assets/images/logos/wallhalla.png",
                         "title": "BT-TGHIMG",
                         "desc": "德国鸡搭建的TELEGRAPH-IMAGE"
-                    },
-                    {
-                        "url": "https://btt.666986.xyz",
-                        "logo": "assets/images/logos/365PSD.png",
-                        "title": "BTT-ODM",
-                        "desc": "德国鸡搭建的ODM(挂了)"
-                    },
-                    {
-                        "url": "https://tb.666986.xyz",
-                        "logo": "assets/images/logos/Medialoot.png",
-                        "title": "TB-IPFSTUBE",
-                        "desc": "德国鸡搭建的PanIndex"
-                    },
-                    {
-                        "url": "https://tbb.666986.xyz",
-                        "logo": "assets/images/logos/qiantu.png",
-                        "title": "TBB-SHARELIST",
-                        "desc": "德国鸡搭建的SHARELIST"
                     }
                 ]
             }
